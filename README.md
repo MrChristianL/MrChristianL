@@ -1,10 +1,8 @@
 ## Hey, I'm Christian 👋
 
-### Connect with me:
+### Connect with me on LinkedIn: 
+<img align="left" alt="Christian Leonard | LinkedIn" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/Linkedin-logo.png" /> [/in/christian-leonard]
 
-LinkedIn: <img align="left" alt="Christian Leonard | LinkedIn" width="50px" src="https://github.com/MrChristianL/MrChristianL/blob/main/Linkedin-logo.png" /> [/in/christian-leonard]
-
-E-Mail: <img align="left" alt="Christian Leonard | LinkedIn" width="40px" src="https://github.com/MrChristianL/MrChristianL/blob/main/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" /> mrchristianleonard@gmail.com
 
 <br />
 
@@ -50,11 +48,10 @@ Though the programming of Walter employs C++, the drawing of the obstacles as se
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 <!-- CONTACT -->
 ## For more information regarding the Walter Project
+E-Mail:   <img align="left" alt="Christian Leonard | LinkedIn" width="40px" src="https://github.com/MrChristianL/MrChristianL/blob/main/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" /> mrchristianleonard@gmail.com
 
 Robotics Project Link: [Arduino-Maze-Solving-Robot](https://github.com/MrChristianL/Arduino-Maze-Solving-Robot)
 
