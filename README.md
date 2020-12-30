@@ -1,6 +1,6 @@
 ### Hey, I'm Christian 👋
 
-### Connect with me on LinkedIn: [<img align="left" alt="Christian Leonard | LinkedIn" width="50px" src="https://github.com/MrChristianL/MrChristianL/blob/main/Linkedin-logo.png" />]
+### Connect with me on LinkedIn: <img align="left" alt="Christian Leonard | LinkedIn" width="50px" src="https://github.com/MrChristianL/MrChristianL/blob/main/Linkedin-logo.png" /> [/in/christian-leonard]
 
 <br />
 
@@ -159,5 +159,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * []()
 
 <!-- MARKDOWN LINKS AND IMAGES -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/christian-leonard/
+[linkedin-shield]: https://github.com/MrChristianL/MrChristianL/blob/main/Linkedin-logo.png
+[/in/christian-leonard]: https://www.linkedin.com/in/christian-leonard/
