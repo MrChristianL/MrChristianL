@@ -29,7 +29,7 @@ Here's a blank template to get started:
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/Solving.gif" width="500">
 
 ### 2D Re-Creation of Maze Environment
-<img src="https://github.com/MrChristianL/MrChristianL/blob/main/Drawing.gif" width="300">
+<img src="https://github.com/MrChristianL/MrChristianL/blob/main/Drawing.gif" width="350">
 
 
 <!-- GETTING STARTED -->
