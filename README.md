@@ -23,13 +23,12 @@ Instead of a cave, Walter uses a 5x5 maze as the enclosed area for this instance
 <br/><br/>
 ### Walter Solving The Maze Using LHR and Ultrasonic Sensors
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/Solving.gif" width="500">
-----
+
 Note that the robot also makes small corrections to its placement within the maze to effectively execute turns and maneuver the maze. This is due to Walter's relative size within the maze, requiring a high level of precision when determining Walter's local position and distances from each surrounding wall.
 
 <br/><br/>
 
 ## The Goal of Walter
-<br/><br/>
 Rather than having the goal of making it from start to finish, the main focus of the project was to have Walter be able to traverse the maze, remembering every obstacle encountered throughout the journey, and then be able to draw the layout of the maze from memory after completion.
 
 ### 2D Re-Creation of Maze Environment
