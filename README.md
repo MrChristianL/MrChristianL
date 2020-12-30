@@ -1,4 +1,4 @@
-### Hey, I'm Christian 👋
+## Hey, I'm Christian 👋
 
 ### Connect with me on LinkedIn: <img align="left" alt="Christian Leonard | LinkedIn" width="50px" src="https://github.com/MrChristianL/MrChristianL/blob/main/Linkedin-logo.png" /> [/in/christian-leonard]
 
