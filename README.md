@@ -26,6 +26,8 @@ Here's a blank template to get started:
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
+<img src="https://media.giphy.com/media/lT9B6XTeSF6jiHdfKR/giphy.gif" width="300">
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
