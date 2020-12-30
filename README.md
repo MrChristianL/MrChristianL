@@ -22,8 +22,9 @@
 --
 Include a picture of Walter, explain briefly how it works and what you used for each major portion. Also clean up some of the unneccessary parts down below, link to Walter's repository, and finally, add email with logo for contact info
 --
+<img src="https://github.com/MrChristianL/MrChristianL/blob/main/Walter.jpg" width="600">
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<br/><br/>
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -102,9 +103,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+### Contact
+<img align="left" alt="Christian Leonard | Email" width="50px" src="https://github.com/MrChristianL/MrChristianL/blob/main/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" /> [mrchristianleonard@gmail.com]
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
@@ -120,3 +120,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS AND IMAGES -->
 [linkedin-shield]: https://github.com/MrChristianL/MrChristianL/blob/main/Linkedin-logo.png
 [/in/christian-leonard]: https://www.linkedin.com/in/christian-leonard/
+[mrchristianleonard@gmial.com]: mrchristianleonard@gmail.com
