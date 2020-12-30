@@ -26,10 +26,10 @@ Here's a blank template to get started:
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 ### Walter Solving The Maze Using LHR and Ultrasonic Sensors
-<img src="https://media.giphy.com/media/7CQY07B5SpfE5CRr4T/giphy.gif" width="300px">
+<img src="https://github.com/MrChristianL/MrChristianL/blob/main/Solving.gif" width="500">
 
 ### 2D Re-Creation of Maze Environment
-<img src="https://media.giphy.com/media/lT9B6XTeSF6jiHdfKR/giphy.gif" width="450px">
+<img src="https://github.com/MrChristianL/MrChristianL/blob/main/Drawing.gif" width="300">
 
 
 <!-- GETTING STARTED -->
