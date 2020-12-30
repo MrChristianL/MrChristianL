@@ -8,19 +8,19 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Arduino" width="26px" src="https://github.com/MrChristianL/MrChristianL/blob/main/arduino-1-logo-png-transparent.png" />]
+[<img align="left" alt="Arduino" width="40px" src="https://github.com/MrChristianL/MrChristianL/blob/main/arduino-1-logo-png-transparent.png" />]
 
-[<img align="left" alt="Processing" width="26px" src="https://github.com/MrChristianL/MrChristianL/blob/main/180px-Processing_3_logo.png" />]
+[<img align="left" alt="Processing" width="40px" src="https://github.com/MrChristianL/MrChristianL/blob/main/180px-Processing_3_logo.png" />]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
-[<img align="left" alt="Java" width="26px" src="https://github.com/MrChristianL/MrChristianL/blob/main/java-logo-png-2.png" />]
+[<img align="left" alt="Java" width="40px" src="https://github.com/MrChristianL/MrChristianL/blob/main/java_logo.jpg" />]
 
-[<img align="left" alt="C++" width="26px" src="https://github.com/MrChristianL/MrChristianL/blob/main/1200px-ISO_C%2B%2B_Logo.svg.png" />]
+[<img align="left" alt="C++" width="40px" src="https://github.com/MrChristianL/MrChristianL/blob/main/1200px-ISO_C%2B%2B_Logo.svg.png" />]
 
-[<img align="left" alt="Python" width="26px" src="https://github.com/MrChristianL/MrChristianL/blob/main/Python_logo_icon.png" />]
+[<img align="left" alt="Python" width="40px" src="https://github.com/MrChristianL/MrChristianL/blob/main/Python_logo_icon.png" />]
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
 <br />
