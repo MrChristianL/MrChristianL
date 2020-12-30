@@ -38,11 +38,6 @@ Though the programming of Walter employs C++, the drawing of the obstacles as se
 <br/><br/>
 <br/><br/>
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
 
 <!-- CONTACT -->
 ## For more information regarding the Walter Project
