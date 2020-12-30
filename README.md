@@ -32,6 +32,9 @@ Here's a blank template to get started:
 ### Walter Solving The Maze Using LHR and Ultrasonic Sensors
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/Solving.gif" width="500">
 
+<br/><br/>
+<br/><br/>
+
 ### 2D Re-Creation of Maze Environment
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/Drawing.gif" width="350">
 
