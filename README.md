@@ -19,6 +19,10 @@
 <!-- ABOUT THE PROJECT -->
 ## Walter - The Wall Tracking Extraction Rover
 
+--
+Include a picture of Walter, explain briefly how it works and what you used for each major portion. Also clean up some of the unneccessary parts down below, link to Walter's repository, and finally, add email with logo for contact info
+--
+
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
