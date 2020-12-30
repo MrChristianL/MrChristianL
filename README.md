@@ -1,6 +1,10 @@
 ## Hey, I'm Christian 👋
 
-### Connect with me on LinkedIn: <img align="left" alt="Christian Leonard | LinkedIn" width="50px" src="https://github.com/MrChristianL/MrChristianL/blob/main/Linkedin-logo.png" /> [/in/christian-leonard]
+### Connect with me:
+
+LinkedIn: <img align="left" alt="Christian Leonard | LinkedIn" width="50px" src="https://github.com/MrChristianL/MrChristianL/blob/main/Linkedin-logo.png" /> [/in/christian-leonard]
+
+GMail: [mrchristianleonard@gmail.com] <img align="left" alt="Christian Leonard | Email" width="50px" src="https://github.com/MrChristianL/MrChristianL/blob/main/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" />
 
 <br />
 
@@ -20,8 +24,9 @@
 ## Walter - The Wall Tracking Extraction Rover
 
 --
-Include a picture of Walter, explain briefly how it works and what you used for each major portion. Also clean up some of the unneccessary parts down below, link to Walter's repository, and finally, add email with logo for contact info
+Explain briefly how it works and what you used for each major portion. Also clean up some of the unneccessary parts down below, link to Walter's repository, and finally, add email with logo for contact info
 --
+
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/Walter.jpg" width="600">
 
 <br/><br/>
@@ -40,32 +45,6 @@ Here's a blank template to get started:
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/Drawing.gif" width="350">
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -74,48 +53,11 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
-### Contact
-<img align="left" alt="Christian Leonard | Email" width="50px" src="https://github.com/MrChristianL/MrChristianL/blob/main/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" /> [mrchristianleonard@gmail.com]
+## For more information regarding the Walter Project
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Robotics Project Link: [https://github.com/MrChristianL/Arduino-Maze-Solving-Robot](https://github.com/MrChristianL/Arduino-Maze-Solving-Robot)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 <!-- MARKDOWN LINKS AND IMAGES -->
 [linkedin-shield]: https://github.com/MrChristianL/MrChristianL/blob/main/Linkedin-logo.png
