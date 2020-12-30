@@ -1,4 +1,7 @@
 ## Hey, I'm Christian 👋
+- I have a degree in Math, but prefer to use my powers for good instead of evil
+- I'm constantly trying to learn new things and improve my skills
+- My other interests include stand-up comedy, screenwriting, politics, and astronomy
 
 ### Connect with me on LinkedIn: 
 <img align="left" alt="Christian Leonard | LinkedIn" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/Linkedin-logo.png" /> [/in/christian-leonard]
