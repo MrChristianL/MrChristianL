@@ -4,7 +4,7 @@
 
 LinkedIn: <img align="left" alt="Christian Leonard | LinkedIn" width="50px" src="https://github.com/MrChristianL/MrChristianL/blob/main/Linkedin-logo.png" /> [/in/christian-leonard]
 
-GMail: [mrchristianleonard@gmail.com] <img align="left" alt="Christian Leonard | Email" width="50px" src="https://github.com/MrChristianL/MrChristianL/blob/main/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" />
+E-Mail: <img align="left" alt="Christian Leonard | LinkedIn" width="50px" src="https://github.com/MrChristianL/MrChristianL/blob/main/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" /> mrchristianleonard@gmail.com
 
 <br />
 
@@ -21,29 +21,33 @@ GMail: [mrchristianleonard@gmail.com] <img align="left" alt="Christian Leonard |
 
 
 <!-- ABOUT THE PROJECT -->
-## Walter - The Wall Tracking Extraction Rover
-
---
-Explain briefly how it works and what you used for each major portion. Also clean up some of the unneccessary parts down below, link to Walter's repository, and finally, add email with logo for contact info
---
-
+### Walter - The Wall Tracking Extraction Rover
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/Walter.jpg" width="600">
 
 <br/><br/>
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+Walter was first thought of as a minimalistic approach to providing a robot capable of searching enclosed areas, such as caves, with an emphasis on search and rescue efforts. With a limited budget and timeframe, Walter was boiled down to the core tenets necessary to make progress toward this goal.
+<br/><br/>
+Instead of a cave, Walter uses a 5x5 maze as the enclosed area for this instance. Walter currently employs the Left Hand Rule (LHR) method of exploring and solving the maze. The single ultrasonic sensor fastened to the front of the robot allows Walter to detect the presense of walls within the maze, and then respond accordingly. 
+<br/><br/>
+<br/><br/>
 ### Walter Solving The Maze Using LHR and Ultrasonic Sensors
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/Solving.gif" width="500">
 
+Note that the robot also makes small corrections to its placement within the maze to effectively execute turns and maneuver the maze. This is due to Walter's relative size within the maze, requiring a high level of precision when determining Walter's local position and distances from each surrounding wall.
+
+
 <br/><br/>
 <br/><br/>
+
+## The Goal of Walter
+<br/><br/>
+Rather than having the goal of making it from start to finish, the main focus of the project was to have Walter be able to traverse the maze, remembering every obstacle encountered throughout the journey, and then be able to draw the layout of the maze from memory after completion.
 
 ### 2D Re-Creation of Maze Environment
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/Drawing.gif" width="350">
 
+<br/><br/>
+<br/><br/>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
