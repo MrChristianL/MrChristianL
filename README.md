@@ -8,14 +8,14 @@
 
 ### Languages and IDEs I Currently Use Include:
 
-<img align="left" alt="Arduino" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/arduino-1-logo-png-transparent.png" />   <img align="left" alt="Processing" width="66px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/images/180px-Processing_3_logo.png" />  <img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="Java" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/java_logo.jpg" />  <img align="left" alt="C++" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/1200px-ISO_C%2B%2B_Logo.svg.png" /> <img align="left" alt="Python" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Python_logo_icon.png" /> <img align="left" alt="Terminal" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Arduino" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/arduino-1-logo-png-transparent.png" />   <img align="left" alt="Processing" width="66px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/180px-Processing_3_logo.png" />  <img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="Java" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/java_logo.jpg" />  <img align="left" alt="C++" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/1200px-ISO_C%2B%2B_Logo.svg.png" /> <img align="left" alt="Python" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Python_logo_icon.png" /> <img align="left" alt="Terminal" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/><br/>
 <br/><br/>
 
 <!-- ABOUT THE PROJECT -->
 ## Meet Walter
-<img src="https://github.com/MrChristianL/MrChristianL/blob/main/Walter.jpg" width="600">
+<img src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Walter.jpg" width="600">
 
 ### WalTER - The Wall Tracking Extraction Rover
 Walter was first thought of as a minimalistic approach to providing a robot capable of searching enclosed areas, such as caves, with an emphasis on search and rescue efforts. With a limited budget and timeframe, Walter was boiled down to the core tenets necessary to make progress toward this goal.
