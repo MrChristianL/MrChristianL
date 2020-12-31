@@ -4,7 +4,7 @@
 - My other interests include stand-up comedy, screenwriting, politics, and astronomy
 
 ### Connect with me on LinkedIn: 
-<img align="left" alt="Christian Leonard | LinkedIn" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/Linkedin-logo.png" /> [/in/christian-leonard]
+<img align="left" alt="Christian Leonard | LinkedIn" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Linkedin-logo.png" /> [/in/christian-leonard]
 
 ### Languages and IDEs I Currently Use Include:
 
@@ -37,7 +37,7 @@ Though the programming of Walter employs C++, the drawing of the obstacles as se
 
 <!-- CONTACT -->
 ## For more information regarding the Walter Project
-E-Mail:   <img align="left" alt="Christian Leonard | LinkedIn" width="40px" src="https://github.com/MrChristianL/MrChristianL/blob/main/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" /> mrchristianleonard@gmail.com
+E-Mail:   <img align="left" alt="Christian Leonard | LinkedIn" width="40px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" /> mrchristianleonard@gmail.com
 
 Project Repository Link: [Arduino-Maze-Solving-Robot](https://github.com/MrChristianL/Arduino-Maze-Solving-Robot)
 
