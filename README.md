@@ -45,7 +45,7 @@ Project Repository Link: [Arduino-Maze-Solving-Robot](https://github.com/MrChris
 ## To hear what Mars sounded like on my 23rd birthday, click the link below! 
 (Courtesy of NASA and the amazing folks at the JPL)
 - Thanks to the Perseverance Rover, I was lucky enough to find this audio clip taken from the surface of Mars that just so happens to have been recorded on Feb 20th, 2021 -- my 23rd birthday! 
-[Mars Audio - Perseverance Rover]
+- [Mars Audio - Perseverance Rover]
 
 
 <!-- MARKDOWN LINKS AND IMAGES -->
