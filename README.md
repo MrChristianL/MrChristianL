@@ -49,8 +49,7 @@ During the summer of 2019, several tragedies struck my family. One such tragedy 
 
 To date, my crowning achievement in the field of Computational Neuroscience has been implementing a remedial version of a Bhadra-Kilgore block on a Deep Root Ganglion Neuron in an attempts to create a non-opioid solution to chronic pain. 
 
-###Functional Bhadra-Kilgore Block Functionality
-<img src="https://github.com/MrChristianL/MrChristianL/blob/main/images/BK_Functional.jpg" width="600">
+<img src="https://github.com/MrChristianL/MrChristianL/blob/main/images/BK_Functional.png" width="350">
 
 I'm currently performing additional research under Dr. Cindy Chestek at U-M's Cortical Neural Prosthetics Lab.
 
