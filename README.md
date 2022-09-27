@@ -40,6 +40,8 @@ Though the programming of Walter employs C++, the drawing of the obstacles as se
 ## My Progression of Robotics
 Since attending the University of Michigan, I've worked on a couple of additional robots. I worked on another robot similar to Walter that also had to navigate a maze environment. This robot, effectionately named CarL (get it.. because he's a car... not my best, I'll admit). CarL utilized more advanced algorithms and sensors to do a similar job. It was a great first step in advancing my robotics knowledge. After CarL came Louis, a 6DOF robotic arm that taught me much about kinematics and provided a brief introduction into computer vision.
 
+<img src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Mbot.png" width="300"> <img src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Armlab.png" width="300">
+
 These two robots opened my eyes to many of the flaws and mistakes I made when I worked on Walter by myself. For comparision, what took me roughly two years to complete with Walter took only about six weeks on CarL.
 
 ## Computational Neuroscience -- The Personal Weight It Brings
