@@ -1,9 +1,6 @@
-## Hey there 👋 My name is Christian
+## Hey there  👋  My name is Christian
 Here you can see the progression of my experience and exposure within robotics and see a brief overview of the different robotic projects and academic research I have performed.
-
 <br/><br/>
-<br/><br/>
-
 <!-- ABOUT THE PROJECT -->
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Walter.jpg" width="600">
 
