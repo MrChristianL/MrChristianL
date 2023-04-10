@@ -1,13 +1,14 @@
 ## Hey there 👋 My name is Christian
+Here you can see the progression of my experience and exposure within robotics and see a brief overview of the different robotic projects and academic research I have performed.
 
+<br/><br/>
 <br/><br/>
 
 <!-- ABOUT THE PROJECT -->
-### Meet Walter - My First Robot
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Walter.jpg" width="600">
 
-### WalTER - The Wall Tracking Extraction Rover
-Walter was first thought of as a minimalistic approach to providing a robot capable of searching enclosed areas, such as caves, with an emphasis on search and rescue efforts. With a limited budget and timeframe, Walter was boiled down to the core tenets necessary to make progress toward this goal.
+### Meet Walter - The Wall Tracking Extraction Rover
+Walter was my first exposure to the field of robotics during my time in my undergraduate program. Walter was initially thought of as a minimalistic approach to providing a robot capable of searching enclosed areas, such as caves, with an emphasis on search and rescue efforts. With a limited budget and timeframe, Walter was boiled down to the core tenets necessary to make progress toward this goal.
 <br/><br/>
 Instead of a cave, Walter uses a 5x5 maze as the enclosed area for this instance. Being my first venture into robotics and search algorithms, Walter employed the Left Hand Rule (LHR) method of exploring and solving the maze to make use of the limited storage available on the Arduino. The single ultrasonic sensor fastened to the front of the robot allows Walter to detect the presense of walls within the maze, and then respond accordingly. Walter *does not* memorize the maze environment. The robot's memory is wiped before each trial, remembering a new set of obstacles that need to be drawn each time. 
 
