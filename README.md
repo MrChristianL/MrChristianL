@@ -38,9 +38,11 @@ To date, my crowning achievement in the field of Computational Neuroscience has 
 I performed additional research under Dr. Cindy Chestek at U-M's Cortical Neural Prosthetics Lab.
 
 <!-- CONTACT -->
+LinkedIn:   <img align="left" alt="Christian Leonard | LinkedIn" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Linkedin-logo.png" /> [/in/christian-leonard]
+<br/><br/>
 E-Mail:   <img align="left" alt="Christian Leonard | LinkedIn" width="40px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" /> mrchristianleonard@gmail.com
 
-LinkedIn:   <img align="left" alt="Christian Leonard | LinkedIn" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Linkedin-logo.png" /> [/in/christian-leonard]
+
 
 ## To hear what Mars sounded like on my 23rd birthday, click the link below! 
 (Courtesy of NASA and the amazing folks at the JPL)
