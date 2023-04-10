@@ -3,7 +3,7 @@
 <br/><br/>
 
 <!-- ABOUT THE PROJECT -->
-## Meet Walter - My First Robot
+### Meet Walter - My First Robot
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Walter.jpg" width="600">
 
 ### WalTER - The Wall Tracking Extraction Rover
