@@ -1,16 +1,8 @@
 ## Hey there 👋 My name is Christian
-Welcome to my GitHub! I originally received my bachelor's degree in mathematics, but chose to further pursue robotics after solo-building my first robot, Walter. Walter was built in a time when I had minimal coding experience and absolutely no practice with microcontrollers or sensors of any sort. It taught me so much and showed me the power of building something tangible.
-
-I'm currently pusuing my Master's in Robotics at the University of Michigan (Go Blue!) where I've been exposed to many other types of robots and practices in engineering and computer science. I've found a love for computational neuroscience along the way, and have seen the vast good that neurotechnology can provide to mankind in the future.
-
-Outside of engineering, I've incredibly passionate about entrepreneurship, social impact, stand-up comedy, and film. I appreciate you spending your time with me here on this page! Take care!
+Welcome to my GitHub!
 
 ### Connect with me on LinkedIn: 
 <img align="left" alt="Christian Leonard | LinkedIn" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Linkedin-logo.png" /> [/in/christian-leonard]
-
-### Languages and IDEs I Currently Use Include:
-
-<img align="left" alt="Python" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Python_logo_icon.png" /> <img align="left" alt="Arduino" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/arduino-1-logo-png-transparent.png" />   <img align="left" alt="Processing" width="66px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/180px-Processing_3_logo.png" />  <img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="Java" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/java_logo.jpg" />  <img align="left" alt="C++" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/1200px-ISO_C%2B%2B_Logo.svg.png" /> <img align="left" alt="Terminal" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/><br/>
 <br/><br/>
@@ -44,16 +36,13 @@ Since attending the University of Michigan, I've worked on a couple of additiona
 
 These two robots opened my eyes to many of the flaws and mistakes I made when I worked on Walter by myself. For comparision, what took me roughly two years to complete with Walter took only about six weeks on CarL.
 
-## Computational Neuroscience -- The Personal Weight It Brings
-The world of neurotechnology and neural engineering really sort of snuck up on me. I wasn't aware of its existence until coming to U-M, but once I found it, I knew I had to dive straight in. 
+## Computational Neuroscience
 
-During the summer of 2019, several tragedies struck my family. One such tragedy was my parents and me being hit by a drunk driver. The crash left my mom with severe nerve damage and a nearly 100% reduction in range of motion in my mother's left arm from her elbow to her fingers. Neural engineering was the first time I felt hopeful about my mom getting some of her life back. For so long, she had been controlled by pain and has been limited in her capabilities because of what the crash did to her arm -- the freedom it took from her. Now was my chance to better understand, and perhaps even help, with her condition. It was also a unique opportunity to do a bit of that with myself, as well, as I live with epilepsy that is still a relatively new experience to me (thanks again, summer of 2019).
-
-To date, my crowning achievement in the field of Computational Neuroscience has been implementing a remedial version of a Bhadra-Kilgore block on a Deep Root Ganglion Neuron in an attempt to create a non-opioid solution to chronic pain. 
+To date, my crowning achievement in the field of Computational Neuroscience has been implementing a remedial version of a Bhadra-Kilgore block on a Deep Root Ganglion Neuron in an attempt to create a non-opioid solution to chronic pain.
 
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/images/BK_Functional.png" width="350">
 
-I'm currently performing additional research under Dr. Cindy Chestek at U-M's Cortical Neural Prosthetics Lab.
+I performed additional research under Dr. Cindy Chestek at U-M's Cortical Neural Prosthetics Lab.
 
 <!-- CONTACT -->
 ## For more information regarding the Walter Project
