@@ -1,10 +1,5 @@
 ## Hey there 👋 My name is Christian
-Welcome to my GitHub!
 
-### Connect with me on LinkedIn: 
-<img align="left" alt="Christian Leonard | LinkedIn" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Linkedin-logo.png" /> [/in/christian-leonard]
-
-<br/><br/>
 <br/><br/>
 
 <!-- ABOUT THE PROJECT -->
@@ -45,11 +40,9 @@ To date, my crowning achievement in the field of Computational Neuroscience has 
 I performed additional research under Dr. Cindy Chestek at U-M's Cortical Neural Prosthetics Lab.
 
 <!-- CONTACT -->
-## For more information regarding the Walter Project
 E-Mail:   <img align="left" alt="Christian Leonard | LinkedIn" width="40px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" /> mrchristianleonard@gmail.com
 
-Project Repository Link: [Arduino-Maze-Solving-Robot](https://github.com/MrChristianL/Arduino-Maze-Solving-Robot)
-
+LinkedIn: <img align="left" alt="Christian Leonard | LinkedIn" width="60px" src="https://github.com/MrChristianL/MrChristianL/blob/main/images/Linkedin-logo.png" /> [/in/christian-leonard]
 
 ## To hear what Mars sounded like on my 23rd birthday, click the link below! 
 (Courtesy of NASA and the amazing folks at the JPL)
