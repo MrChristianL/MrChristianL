@@ -49,7 +49,7 @@ The world of neurotechnology and neural engineering really sort of snuck up on m
 
 During the summer of 2019, several tragedies struck my family. One such tragedy was my parents and me being hit by a drunk driver. The crash left my mom with severe nerve damage and a nearly 100% reduction in range of motion in my mother's left arm from her elbow to her fingers. Neural engineering was the first time I felt hopeful about my mom getting some of her life back. For so long, she had been controlled by pain and has been limited in her capabilities because of what the crash did to her arm -- the freedom it took from her. Now was my chance to better understand, and perhaps even help, with her condition. It was also a unique opportunity to do a bit of that with myself, as well, as I live with epilepsy that is still a relatively new experience to me (thanks again, summer of 2019).
 
-To date, my crowning achievement in the field of Computational Neuroscience has been implementing a remedial version of a Bhadra-Kilgore block on a Deep Root Ganglion Neuron in an attempts to create a non-opioid solution to chronic pain. 
+To date, my crowning achievement in the field of Computational Neuroscience has been implementing a remedial version of a Bhadra-Kilgore block on a Deep Root Ganglion Neuron in an attempt to create a non-opioid solution to chronic pain. 
 
 <img src="https://github.com/MrChristianL/MrChristianL/blob/main/images/BK_Functional.png" width="350">
 
