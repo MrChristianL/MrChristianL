@@ -1,3 +1,3 @@
-### Hey there  👋  My name is Christian
+### What's up  👋
 
-I code things: usually Python, sometimes robots.
+I code things: usually Python, sometimes robots
